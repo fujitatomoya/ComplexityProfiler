@@ -9,10 +9,12 @@ at least, this easy library can help me sometimes...
 Linux Ubuntu14/16 (only confirmed)
 
 ### How to build
+```bash
 mkdir build
 cd build
 cmake ../
 make
+```
 
 ### How to use
 see test/ComplexityProfiler_test.cpp
